@@ -18,11 +18,5 @@ public class Hypotenuse_calculation {
         System.out.println("hypotenuse-->"+ " "+ (int) c);
 
 
-
-
-
-
-
-
     }
 }
