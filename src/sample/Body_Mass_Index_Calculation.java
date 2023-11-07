@@ -15,7 +15,7 @@ public class Body_Mass_Index_Calculation {
 
         double index = weight / (height * height);
         System.out.println("your body mass index-->"+ " "+index);
-        
+
 
 
 
